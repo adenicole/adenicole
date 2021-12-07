@@ -1,6 +1,6 @@
                               ## Call me Adenicole! 💜
                       
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
                       
                                  # ABOUT ME
 
@@ -8,7 +8,7 @@ I am Adedoyin Adeyemi (@adenicole), a tech-savvy Pharmacologist. Lover of all th
 I just completed the Cloud DevOps Engineer nano degree at Udacity and got AWS Cloud Practitioner Certified and working towards getting my AWS solution architect certificate. 
 I'm actively looking for a company to implement all I have learnt, grow, and to gain experience.
                   
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 # SKILL-SET
                             
       - HTML          -- ANSIBLE      -- LOCUST
@@ -19,14 +19,17 @@ I'm actively looking for a company to implement all I have learnt, grow, and to 
       - KUBERNETES    -- PROMETHEUS   -- DATABASES
       - TERRAFORM     -- GRAFANA      -- MAKEFILE
       
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                    ## CONTACT
            GMAIL:    dedoyinnicole@gmail.com
            TWITTER:  https://twitter.com/adeyemi_nicole
            LINKEDIN: https://www.linkedin.com/in/adenicole/
            HASHNODE: https://hashnode.com/@Adenicole
   
-                  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Adenicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenicole)](https://github.com/adenicole/github-readme-stats)
+
 
 
 
