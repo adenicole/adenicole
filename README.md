@@ -28,7 +28,6 @@ I'm actively looking for a company to implement all I have learnt, grow, and to 
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Adenicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=adenicole)](https://github.com/adenicole/github-readme-stats)
 ![Adenicole github stats](https://github-readme-stats.vercel.app/api?username=adenicole&show_icons=true&theme=onedark)
 
 
