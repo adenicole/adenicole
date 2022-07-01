@@ -5,7 +5,7 @@
                                  # ABOUT ME
 
 I am Adedoyin Adeyemi (@adenicole), a tech-savvy Pharmacologist. Lover of all things Opensource, Linux and Cloud.
-I just completed the Cloud DevOps Engineer nano degree at Udacity and got AWS Cloud Practitioner Certified and working towards getting my AWS solution architect certificate. 
+I just completed the Cloud DevOps Engineer nano degree at Udacity and got the AWS Cloud Practitioner Certified and AWS solution architect certificate. 
 I'm actively looking to learn, grow, and gain experience.
                   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
